@@ -27,4 +27,7 @@ A mobile Tic Tac Toe game built with Flutter
 <img src="readme/preview-1.gif" width="250"/>
 
 
+## Game Screenshots 📷
+<img src="readme/1.png" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="readme/2.png" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="readme/3.png" width="250"/>
+
 
